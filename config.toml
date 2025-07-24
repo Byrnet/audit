@@ -1,4 +1,5 @@
 baseURL = "http://localhost:1313/"
+publishDir = "docs"
 languageCode = "ru-ru"
 title = "Мой CleanWhite Блог"
 theme = "hugo-theme-cleanwhite"
